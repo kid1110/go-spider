@@ -1,0 +1,14 @@
+server:
+  host: ":8081"
+  port: 8081
+
+
+mysql:
+  dsn: "root:password@tcp(112.74.93.38:3306)/db_news?charset=utf8mb4&parseTime=True&loc=Local"
+
+
+redis:
+  password: "XXXXXX"
+  database: 0
+  addr: "XXX.XX.XX.XX:XXXX"
+  
