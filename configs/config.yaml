@@ -4,7 +4,7 @@ server:
 
 
 mysql:
-  dsn: "root:password@tcp(112.74.93.38:3306)/db_news?charset=utf8mb4&parseTime=True&loc=Local"
+  dsn: "root:password@tcp(XX.XX.XX.XX:3306)/db_news?charset=utf8mb4&parseTime=True&loc=Local"
 
 
 redis:
